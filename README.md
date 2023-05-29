@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img style="height: 300px;" src="https://i.ibb.co/XycMQzL/Black-Gold-Orange-Modern-Luxury-Hotel-Promotion-Presentation.png">
+<img style="height: 100%;" src="https://i.ibb.co/XycMQzL/Black-Gold-Orange-Modern-Luxury-Hotel-Promotion-Presentation.png">
 <br>
 <br>
 
